@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- anmol098/waka-readme-stats -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
