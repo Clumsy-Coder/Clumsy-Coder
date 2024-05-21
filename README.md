@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 
 <!-- anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-787%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-788%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.0 MB Used in GitHub's Storage 
- > 
-> 🏆 699 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,18 +56,18 @@ Sunday                   3867 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 32 mins       ████████████████████████░   96.51 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+TypeScript               4 hrs 12 mins       ████████████████████████░   97.87 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 37 mins       █████████████████████████   100.00 % 
+Neovim                   4 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker         1 hr 39 mins        ████████████████░░░░░░░░░   63.14 % 
-jsm-framer-portfolio     58 mins             █████████░░░░░░░░░░░░░░░░   36.86 % 
+jsm-framer-portfolio     2 hrs 38 mins       ███████████████░░░░░░░░░░   61.33 % 
+exercise-tracker         1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   38.67 % 
 
 💻 Operating System: 
-WSL                      2 hrs 37 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,5 +87,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2024/05/20 01:23:32 UTC
+ Last Updated on 2024/05/21 01:23:20 UTC
 <!--END_SECTION:waka-->
