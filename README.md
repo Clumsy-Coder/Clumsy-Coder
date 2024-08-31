@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 > 📦 7.0 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 786 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,5 +89,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2024/08/30 01:36:52 UTC
+ Last Updated on 2024/08/31 01:36:04 UTC
 <!--END_SECTION:waka-->
