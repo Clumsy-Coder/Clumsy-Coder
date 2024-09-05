@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
@@ -58,17 +58,18 @@ Sunday                   3948 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 41 mins       ███████████████████████░░   92.13 % 
-YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+TypeScript               3 hrs 3 mins        ██████████████████████░░░   89.76 % 
+YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+JavaScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 55 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker         2 hrs 55 mins       █████████████████████████   100.00 % 
+exercise-tracker         3 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,5 +89,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2024/09/04 01:37:22 UTC
+ Last Updated on 2024/09/05 01:38:01 UTC
 <!--END_SECTION:waka-->
