@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 > 📦 8.3 MB Used in GitHub's Storage 
  > 
+> 🏆 2,238 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -85,5 +87,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2025/06/02 01:57:07 UTC
+ Last Updated on 2025/06/03 01:55:45 UTC
 <!--END_SECTION:waka-->
