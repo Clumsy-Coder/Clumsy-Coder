@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 
 <!-- anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C281%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C284%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 11.7 MB Used in GitHub's Storage 
+ > 
+> 🏆 2,586 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,20 +58,19 @@ Sunday                   5291 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 10 mins       ████████████████████████░   94.73 % 
-Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Markdown                 8 hrs 31 mins       ██████████████████████░░░   88.04 % 
+Text                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 
 🔥 Editors: 
-Neovim                   8 hrs 37 mins       █████████████████████████   100.00 % 
+Neovim                   9 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ITSC-406-A-assignment-03-8 hrs 30 mins       █████████████████████████   98.59 % 
-ITSC-406-A-assignment-02-6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-ITSC-406-A-Security-Tools0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+ITSC-406-A-assignment-03-9 hrs 34 mins       █████████████████████████   98.87 % 
+ITSC-406-A-assignment-02-6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 💻 Operating System: 
-WSL                      7 hrs 26 mins       ██████████████████████░░░   86.39 % 
-Mac                      1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+WSL                      8 hrs 30 mins       ██████████████████████░░░   87.87 % 
+Mac                      1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,5 +90,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2025/06/28 01:51:48 UTC
+ Last Updated on 2025/06/29 02:07:22 UTC
 <!--END_SECTION:waka-->
