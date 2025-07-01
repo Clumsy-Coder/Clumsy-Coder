@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <!-- anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C285%20hrs%205%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 11.7 MB Used in GitHub's Storage 
+ > 
+> 🏆 2,596 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,19 +56,19 @@ Sunday                   5300 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 57 mins       ██████████████████████░░░   88.55 % 
-Text                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Markdown                 9 hrs 5 mins        ██████████████████████░░░   88.70 % 
+Text                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 6 mins       █████████████████████████   100.00 % 
+Neovim                   10 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ITSC-406-A-assignment-03-9 hrs 59 mins       █████████████████████████   98.92 % 
-ITSC-406-A-assignment-02-6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+ITSC-406-A-assignment-03-10 hrs 8 mins       █████████████████████████   98.94 % 
+ITSC-406-A-assignment-02-6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-WSL                      8 hrs 46 mins       ██████████████████████░░░   86.88 % 
-Mac                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+WSL                      8 hrs 55 mins       ██████████████████████░░░   87.06 % 
+Mac                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,5 +88,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2025/06/30 02:01:07 UTC
+ Last Updated on 2025/07/01 02:07:14 UTC
 <!--END_SECTION:waka-->
