@@ -58,16 +58,18 @@ Sunday                   5089 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     23 mins             ███████████████████░░░░░░   75.91 % 
+Markdown                 7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+homelab                  31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -87,5 +89,5 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2025/11/28 01:51:32 UTC
+ Last Updated on 2025/11/29 01:50:34 UTC
 <!--END_SECTION:waka-->
