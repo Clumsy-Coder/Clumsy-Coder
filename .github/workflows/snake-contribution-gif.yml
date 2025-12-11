@@ -1,0 +1,38 @@
+# Generate a gif of the github contribution
+# obtained from
+# - https://github.com/TechDufus/techdufus/blob/c6b0d5e/.github/workflows/snake-contrib-gif.yml
+
+name: 🐍 Generate Snake Contribution GIF
+on:
+  workflow_dispatch: # Manual dispatch
+  schedule:
+    - cron: '0 1 * * 0' # At 01:00 on Sunday.
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    # permissions:
+    #   contents: write # to push commits
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
+
+      # Commit the changes
+      - name: Commit files
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+
+          git add -A
+
+          git commit -m "docs(readme): Updates Snake Contribution Animation"
+          git push --force
