@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
-    <img width="600" alt="github-snake" src="./assets/github-snake.svg">
+    <img alt="github-snake" src="./assets/github-snake.svg">
   </picture>
 </p>
 <!-- END: Github contribution snake gif -->
