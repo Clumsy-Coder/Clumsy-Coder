@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- START: Github contribution snake gif -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
+    <img width="600" alt="github-snake" src="./assets/github-snake.svg">
+  </picture>
+</p>
+<!-- END: Github contribution snake gif -->
+
 <!-- anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C388%20hrs%2013%20mins-blue)
@@ -96,11 +105,3 @@ C                        1 repo              ░░░░░░░░░░░�
  Last Updated on 2025/12/11 02:00:47 UTC
 <!--END_SECTION:waka-->
 
-<!-- START: Github contribution snake gif -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
-    <img width="600" alt="github-snake" src="./assets/github-snake.svg">
-  </picture>
-</p>
-<!-- END: Github contribution snake gif -->
