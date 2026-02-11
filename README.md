@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C476%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C478%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.63%20million%20lines%20of%20code-blue?style=flat)
 
@@ -67,20 +67,17 @@ Sunday                   5544 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 14 mins       ██████████████████░░░░░░░   73.51 % 
-YAML                     52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-conf                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+YAML                     1 hr 6 mins         ████████████████████░░░░░   78.47 % 
+conf                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 24 mins       █████████████████████████   100.00 % 
+Neovim                   1 hr 24 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 25 mins       ██████████████░░░░░░░░░░░   54.80 % 
-homelab                  1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-leetcode                 49 mins             █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+homelab                  1 hr 24 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,6 +97,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/02/10 02:48:02 UTC
+ Last Updated on 2026/02/11 02:44:30 UTC
 <!--END_SECTION:waka-->
 
