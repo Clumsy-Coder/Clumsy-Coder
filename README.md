@@ -67,16 +67,19 @@ Sunday                   5549 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 15 mins             █████████████████░░░░░░░░   66.53 % 
+TeX                      6 mins              ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+gitignore                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+software-engineer-resume 23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,6 +99,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/03/30 02:53:37 UTC
+ Last Updated on 2026/03/31 02:47:45 UTC
 <!--END_SECTION:waka-->
 
