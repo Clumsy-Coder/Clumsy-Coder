@@ -65,22 +65,22 @@ Sunday                   5630 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               26 mins             ████████████░░░░░░░░░░░░░   47.31 % 
-Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-JavaScript               10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Org                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+TypeScript               26 mins             ███████████░░░░░░░░░░░░░░   45.03 % 
+Markdown                 15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+JavaScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Org                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-Neovim                   55 mins             █████████████████████████   100.00 % 
+Neovim                   58 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-django-t27 mins             ████████████░░░░░░░░░░░░░   48.57 % 
-django-allauth           16 mins             ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-Unknown Project          12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+exercise-tracker-django-t27 mins             ████████████░░░░░░░░░░░░░   46.22 % 
+django-allauth           16 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+Unknown Project          15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
 
 💻 Operating System: 
-Linux                    55 mins             █████████████████████████   100.00 % 
+Linux                    58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,6 +100,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/07/24 03:00:05 UTC
+ Last Updated on 2026/07/25 02:59:57 UTC
 <!--END_SECTION:waka-->
 
