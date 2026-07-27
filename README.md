@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C587%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C588%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.65%20million%20lines%20of%20code-blue?style=flat)
 
@@ -67,22 +67,23 @@ Sunday                   5631 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               51 mins             ██████████████░░░░░░░░░░░   56.78 % 
-Markdown                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-JavaScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-TOML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+TypeScript               58 mins             █████████████░░░░░░░░░░░░   53.41 % 
+Markdown                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+JavaScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🔥 Editors: 
-Neovim                   1 hr 31 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 49 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-django-t57 mins             ████████████████░░░░░░░░░   62.93 % 
-django-allauth           17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Unknown Project          16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+exercise-tracker-django-t1 hr 4 mins         ███████████████░░░░░░░░░░   58.83 % 
+django-allauth           17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Unknown Project          16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+dotfiles                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 
 💻 Operating System: 
-Linux                    1 hr 31 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,6 +103,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/07/26 03:26:36 UTC
+ Last Updated on 2026/07/27 03:35:49 UTC
 <!--END_SECTION:waka-->
 
