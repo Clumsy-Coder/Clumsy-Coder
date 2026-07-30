@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 <!-- anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C339%20hrs%2048%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.65%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -65,23 +67,23 @@ Sunday                   5631 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 14 mins        █████████████░░░░░░░░░░░░   53.56 % 
-Python                   48 mins             █████████░░░░░░░░░░░░░░░░   34.52 % 
-YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+TypeScript               1 hr 36 mins        ██████████████░░░░░░░░░░░   56.82 % 
+Python                   48 mins             ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 19 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-django-t2 hrs 3 mins        ██████████████████████░░░   88.34 % 
-dotfiles                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-django-allauth           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+exercise-tracker-django-t2 hrs 24 mins       █████████████████████░░░░   85.55 % 
+dotfiles                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+django-allauth           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 💻 Operating System: 
-Linux                    2 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,6 +109,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/07/29 03:00:16 UTC
+ Last Updated on 2026/07/30 02:45:27 UTC
 <!--END_SECTION:waka-->
 
