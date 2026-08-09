@@ -67,22 +67,21 @@ Sunday                   5645 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 40 mins       ███████████░░░░░░░░░░░░░░   42.68 % 
-Python                   4 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.41 % 
-TOML                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+TypeScript               5 hrs 34 mins       ████████████░░░░░░░░░░░░░   48.55 % 
+Python                   3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+TOML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-Neovim                   13 hrs 18 mins      █████████████████████████   100.00 % 
+Neovim                   11 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-django-t11 hrs 33 mins      ██████████████████████░░░   86.89 % 
-dotfiles                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-yt-dlp-script            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+exercise-tracker-django-t10 hrs 17 mins      ██████████████████████░░░   89.68 % 
+dotfiles                 1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
 
 💻 Operating System: 
-Linux                    13 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,6 +107,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/08/08 01:58:14 UTC
+ Last Updated on 2026/08/09 02:00:58 UTC
 <!--END_SECTION:waka-->
 
