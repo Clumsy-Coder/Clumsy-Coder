@@ -67,21 +67,21 @@ Sunday                   5645 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 34 mins       ████████████░░░░░░░░░░░░░   48.55 % 
-Python                   3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-TOML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+TypeScript               5 hrs 33 mins       ██████████████████░░░░░░░   72.07 % 
+TOML                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Python                   58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+gitignore                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 28 mins      █████████████████████████   100.00 % 
+Neovim                   7 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-django-t10 hrs 17 mins      ██████████████████████░░░   89.68 % 
-dotfiles                 1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+exercise-tracker-django-t6 hrs 32 mins       █████████████████████░░░░   84.66 % 
+dotfiles                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
 
 💻 Operating System: 
-Linux                    11 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    7 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,6 +107,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/08/09 02:00:58 UTC
+ Last Updated on 2026/08/10 02:06:45 UTC
 <!--END_SECTION:waka-->
 
