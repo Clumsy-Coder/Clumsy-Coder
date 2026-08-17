@@ -45,21 +45,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8133 commits        █████████░░░░░░░░░░░░░░░░   34.25 % 
-🌆 Daytime                10200 commits       ███████████░░░░░░░░░░░░░░   42.95 % 
-🌃 Evening                5351 commits        ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+🌞 Morning                8103 commits        █████████░░░░░░░░░░░░░░░░   34.19 % 
+🌆 Daytime                10182 commits       ███████████░░░░░░░░░░░░░░   42.96 % 
+🌃 Evening                5350 commits        ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
 🌙 Night                  65 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   5211 commits        █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-Tuesday                  2696 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Wednesday                3011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Thursday                 1795 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Friday                   3357 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Saturday                 2034 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Sunday                   5645 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Monday                   5202 commits        █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Tuesday                  2696 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Wednesday                2980 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Thursday                 1789 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Friday                   3354 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Saturday                 2034 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Sunday                   5645 commits        ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
 ```
 
 
@@ -67,19 +67,24 @@ Sunday                   5645 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     15 mins             ████████████████████████░   97.96 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+TOML                     43 mins             █████████░░░░░░░░░░░░░░░░   37.48 % 
+Python                   30 mins             ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Text                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+TypeScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 
 🔥 Editors: 
-Neovim                   15 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 55 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-openGym                  15 mins             █████████████████████████   100.00 % 
+yt-dlp-script            1 hr 27 mins        ███████████████████░░░░░░   75.68 % 
+openGym                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+exercise-tracker-django-t10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+dotfiles                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,6 +110,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/08/16 01:33:57 UTC
+ Last Updated on 2026/08/17 01:31:16 UTC
 <!--END_SECTION:waka-->
 
