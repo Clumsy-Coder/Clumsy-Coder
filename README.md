@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C360%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C365%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -67,24 +67,24 @@ Sunday                   5645 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 12 mins       █████████████████░░░░░░░░   67.76 % 
-TOML                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Python                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+TypeScript               5 hrs 7 mins        ███████████████░░░░░░░░░░   61.26 % 
+TeX                      1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+TOML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Python                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 11 mins       █████████████████████████   100.00 % 
+Neovim                   8 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-django-t4 hrs 14 mins       █████████████████░░░░░░░░   68.33 % 
-yt-dlp-script            1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-openGym                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-nvim                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+exercise-tracker-django-t5 hrs 9 mins        ███████████████░░░░░░░░░░   61.67 % 
+yt-dlp-script            1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Unknown Project          1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+openGym                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+software-engineer-resume 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 Operating System: 
-Linux                    6 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -110,6 +110,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/08/19 01:29:44 UTC
+ Last Updated on 2026/08/20 01:28:36 UTC
 <!--END_SECTION:waka-->
 
