@@ -67,23 +67,23 @@ Sunday                   5645 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 35 mins       ████████████████████░░░░░   79.32 % 
-TeX                      1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-gitignore                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+TypeScript               8 hrs 40 mins       ██████████████████████░░░   87.73 % 
+TeX                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 6 mins       █████████████████████████   100.00 % 
+Neovim                   9 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-django-t9 hrs 37 mins       ████████████████████░░░░░   79.47 % 
-Unknown Project          1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-software-engineer-resume 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-tanstack-table           17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+exercise-tracker-django-t8 hrs 41 mins       ██████████████████████░░░   87.92 % 
+Unknown Project          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+tanstack-table           17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+software-engineer-resume 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 💻 Operating System: 
-Linux                    12 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -109,6 +109,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/08/26 01:35:37 UTC
+ Last Updated on 2026/08/27 08:20:41 UTC
 <!--END_SECTION:waka-->
 
