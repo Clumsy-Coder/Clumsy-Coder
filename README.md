@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C380%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C381%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -67,21 +67,21 @@ Sunday                   5649 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON5                    2 hrs 44 mins       ███████████████████░░░░░░   74.49 % 
-TypeScript               53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+JSON5                    1 hr 17 mins        ███████████████░░░░░░░░░░   59.37 % 
+TypeScript               52 mins             ██████████░░░░░░░░░░░░░░░   39.62 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 41 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-data    2 hrs 46 mins       ███████████████████░░░░░░   75.03 % 
-exercise-tracker-django-t42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-tanstack-table           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-exercise-tracker-legacy  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+exercise-tracker-data    1 hr 17 mins        ███████████████░░░░░░░░░░   59.37 % 
+exercise-tracker-django-t40 mins             ████████░░░░░░░░░░░░░░░░░   30.95 % 
+tanstack-table           12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+exercise-tracker-legacy  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Linux                    3 hrs 41 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,6 +107,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/09/04 03:40:57 UTC
+ Last Updated on 2026/09/05 03:41:35 UTC
 <!--END_SECTION:waka-->
 
