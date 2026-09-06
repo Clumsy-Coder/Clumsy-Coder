@@ -67,21 +67,21 @@ Sunday                   5649 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON5                    1 hr 17 mins        ███████████████░░░░░░░░░░   59.37 % 
-TypeScript               52 mins             ██████████░░░░░░░░░░░░░░░   39.62 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+TypeScript               37 mins             █████████████████░░░░░░░░   66.08 % 
+JSON5                    18 mins             ████████░░░░░░░░░░░░░░░░░   31.59 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 11 mins       █████████████████████████   100.00 % 
+Neovim                   57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-data    1 hr 17 mins        ███████████████░░░░░░░░░░   59.37 % 
-exercise-tracker-django-t40 mins             ████████░░░░░░░░░░░░░░░░░   30.95 % 
-tanstack-table           12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-exercise-tracker-legacy  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+exercise-tracker-django-t26 mins             ████████████░░░░░░░░░░░░░   46.20 % 
+exercise-tracker-data    18 mins             ████████░░░░░░░░░░░░░░░░░   31.59 % 
+tanstack-table           12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+exercise-tracker-legacy  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Linux                    2 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,6 +107,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/09/05 03:41:35 UTC
+ Last Updated on 2026/09/06 03:42:26 UTC
 <!--END_SECTION:waka-->
 
