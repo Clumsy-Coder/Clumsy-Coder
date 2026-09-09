@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C381%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C381%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -67,19 +67,24 @@ Sunday                   5662 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 21 mins        █████████████████████████   98.39 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+TypeScript               3 hrs 3 mins        ████████████████████████░   95.52 % 
+Lua                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+JSON5                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Neovim                   1 hr 22 mins        █████████████████████████   100.00 % 
+Neovim                   3 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-django-t1 hr 10 mins        █████████████████████░░░░   84.64 % 
-tanstack-table           12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-exercise-tracker-legacy  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+exercise-tracker-django-t2 hrs 40 mins       █████████████████████░░░░   83.30 % 
+tanstack-table           23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+nvim                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+tanstack-filtered-table-d1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+exercise-tracker-data    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    1 hr 22 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,6 +110,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/09/08 03:49:12 UTC
+ Last Updated on 2026/09/09 03:54:23 UTC
 <!--END_SECTION:waka-->
 
