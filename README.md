@@ -67,24 +67,23 @@ Sunday                   5662 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 3 mins        ████████████████████████░   95.52 % 
-Lua                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-JSON5                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               2 hrs 32 mins       ████████████████████████░   95.32 % 
+Lua                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+JSON5                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 12 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-django-t2 hrs 40 mins       █████████████████████░░░░   83.30 % 
-tanstack-table           23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-nvim                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-tanstack-filtered-table-d1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-exercise-tracker-data    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+exercise-tracker-django-t2 hrs 20 mins       ██████████████████████░░░   87.72 % 
+tanstack-table           10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+nvim                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+tanstack-filtered-table-d1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+exercise-tracker-data    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Linux                    3 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -110,6 +109,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/09/10 03:50:13 UTC
+ Last Updated on 2026/09/11 03:49:29 UTC
 <!--END_SECTION:waka-->
 
