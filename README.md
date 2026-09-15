@@ -45,21 +45,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8142 commits        █████████░░░░░░░░░░░░░░░░   34.15 % 
-🌆 Daytime                10221 commits       ███████████░░░░░░░░░░░░░░   42.88 % 
-🌃 Evening                5411 commits        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+🌞 Morning                8172 commits        █████████░░░░░░░░░░░░░░░░   34.21 % 
+🌆 Daytime                10239 commits       ███████████░░░░░░░░░░░░░░   42.86 % 
+🌃 Evening                5412 commits        ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
 🌙 Night                  65 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   5245 commits        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Tuesday                  2716 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Wednesday                2985 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Thursday                 1796 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-Friday                   3389 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Saturday                 2042 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Sunday                   5666 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Monday                   5254 commits        █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Tuesday                  2716 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Wednesday                3016 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Thursday                 1802 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Friday                   3392 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Saturday                 2042 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Sunday                   5666 commits        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
 ```
 
 
@@ -67,23 +67,23 @@ Sunday                   5666 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 32 mins       ████████████████████████░   95.32 % 
-Lua                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-JSON5                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               1 hr 48 mins        ███████████████████████░░   93.57 % 
+Lua                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+JSON5                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 39 mins       █████████████████████████   100.00 % 
+Neovim                   1 hr 56 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-django-t2 hrs 20 mins       ██████████████████████░░░   87.72 % 
-tanstack-table           10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-nvim                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-tanstack-filtered-table-d1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-exercise-tracker-data    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+exercise-tracker-django-t1 hr 36 mins        █████████████████████░░░░   83.12 % 
+tanstack-table           10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+nvim                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+tanstack-filtered-table-d1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+exercise-tracker-data    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Linux                    2 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -109,6 +109,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/09/14 04:08:45 UTC
+ Last Updated on 2026/09/15 04:06:17 UTC
 <!--END_SECTION:waka-->
 
