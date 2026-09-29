@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- anmol098/waka-readme-stats -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C383%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C384%20hrs%2045%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -67,18 +67,21 @@ Sunday                   5681 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               49 mins             ████████████████████████░   94.72 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+TypeScript               4 hrs 10 mins       ████████████████████████░   96.94 % 
+Lua                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Neovim                   51 mins             █████████████████████████   100.00 % 
+Neovim                   4 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-django-t49 mins             ████████████████████████░   95.72 % 
-job-application          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+exercise-tracker-django-t4 hrs 10 mins       ████████████████████████░   97.17 % 
+nvim                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+job-application          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-Linux                    51 mins             █████████████████████████   100.00 % 
+Linux                    4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,6 +107,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/09/28 04:30:39 UTC
+ Last Updated on 2026/09/29 05:01:27 UTC
 <!--END_SECTION:waka-->
 
