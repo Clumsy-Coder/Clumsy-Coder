@@ -67,19 +67,20 @@ Sunday                   5683 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               57 mins             ████████████████████░░░░░   81.13 % 
-JSON5                    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+TypeScript               1 hr 43 mins        ██████████████████████░░░   86.91 % 
+JSON5                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-Neovim                   1 hr 10 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 59 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-django-t58 mins             █████████████████████░░░░   83.06 % 
-exercise-tracker-data    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+exercise-tracker-django-t1 hr 47 mins        ██████████████████████░░░   89.95 % 
+exercise-tracker-data    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 
 💻 Operating System: 
-Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,6 +106,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/10/07 05:06:01 UTC
+ Last Updated on 2026/10/08 05:17:34 UTC
 <!--END_SECTION:waka-->
 
