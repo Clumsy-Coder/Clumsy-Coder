@@ -67,22 +67,22 @@ Sunday                   5684 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 43 mins        █████████████████████░░░░   82.49 % 
-JSON5                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Lua                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+TypeScript               48 mins             ████████████░░░░░░░░░░░░░   49.75 % 
+Markdown                 38 mins             ██████████░░░░░░░░░░░░░░░   39.44 % 
+Lua                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 5 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-django-t1 hr 46 mins        █████████████████████░░░░   85.39 % 
-exercise-tracker-data    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-nvim                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+exercise-tracker-django-t50 mins             █████████████░░░░░░░░░░░░   52.08 % 
+Unknown Project          28 mins             ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+mimir                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+nvim                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 
 💻 Operating System: 
-Linux                    2 hrs 5 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,6 +108,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/10/12 05:09:13 UTC
+ Last Updated on 2026/10/13 06:08:42 UTC
 <!--END_SECTION:waka-->
 
