@@ -67,22 +67,19 @@ Sunday                   5684 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               48 mins             ████████████░░░░░░░░░░░░░   49.75 % 
-Markdown                 38 mins             ██████████░░░░░░░░░░░░░░░   39.44 % 
-Lua                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Markdown                 48 mins             █████████████████████░░░░   85.52 % 
+Lua                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
 
 🔥 Editors: 
-Neovim                   1 hr 37 mins        █████████████████████████   100.00 % 
+Neovim                   56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-exercise-tracker-django-t50 mins             █████████████░░░░░░░░░░░░   52.08 % 
-Unknown Project          28 mins             ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-mimir                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-nvim                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Unknown Project          35 mins             ████████████████░░░░░░░░░   62.02 % 
+mimir                    13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+nvim                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
 
 💻 Operating System: 
-Linux                    1 hr 37 mins        █████████████████████████   100.00 % 
+Linux                    56 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,6 +105,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/10/14 04:11:43 UTC
+ Last Updated on 2026/10/15 03:54:05 UTC
 <!--END_SECTION:waka-->
 
