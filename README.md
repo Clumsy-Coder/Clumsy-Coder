@@ -67,19 +67,17 @@ Sunday                   5684 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 48 mins             █████████████████████░░░░   85.52 % 
-Lua                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Markdown                 48 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   56 mins             █████████████████████████   100.00 % 
+Neovim                   48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          35 mins             ████████████████░░░░░░░░░   62.02 % 
-mimir                    13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-nvim                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Unknown Project          35 mins             ██████████████████░░░░░░░   72.52 % 
+mimir                    13 mins             ███████░░░░░░░░░░░░░░░░░░   27.48 % 
 
 💻 Operating System: 
-Linux                    56 mins             █████████████████████████   100.00 % 
+Linux                    48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,6 +103,6 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Clumsy-Coder/Clumsy-Coder/main/assets/bar_graph.png)
 
 
- Last Updated on 2026/10/17 03:40:08 UTC
+ Last Updated on 2026/10/18 03:46:38 UTC
 <!--END_SECTION:waka-->
 
